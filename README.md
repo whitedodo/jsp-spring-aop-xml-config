@@ -20,6 +20,7 @@ Jsp/Spring Framework 4.2.4에서 AOP 구성하기(XML-config)
 ##### (AOP configuration method supported by Spring-Framework is implemented in XML method.)
 
 ### 2. 시연(Demonstration)
+##### 1. Spring Framework 4.2.4,  AOP,  XML - config(Context), https://youtu.be/RQsOE42r--w, Accessed by 2020-10-10, Last Modified 2020-10-10.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-24, Last Modified .
